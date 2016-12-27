@@ -1,8 +1,8 @@
 <DOCTYPE! html>
 <html>
 <head>
-  <title>Random Quote Generator</title>  
-  <link rel="stylesheet" type="text/css" href="style.css"/> 
+  <title>Motivation Machine</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
   <link href="https://fonts.googleapis.com/css?family=Coda:800|Oswald" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:700" rel="stylesheet">
 </head>
@@ -11,23 +11,20 @@
   <source src="http://d1qv5zuanyaj6c.cloudfront.net/rocky-montage-motivation-video.mp4" type="video/mp4" />
   </video><!-- /video -->
   <div class="content">
-    <div class="content__heading">Grab Some Motivation
-    </div>  
-   <div class="content-teaser" id="quote-text">
+    <div class="header">Grab Some Motivation
+    </div>
+   <div class="quote-box" id="quote-text">
      <div class="quote">
-       <p id="quoteText"></p>
+       <p id="quoteText">This will be a quote</p>
      </div>
      <div class="author-box">
-      <p id="author"></p>
+      <p id="author">Author</p>
       </div>
    </div>
-    <div class="buttons content_cta">
-       <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Hello%20world"
-  data-size="large">
+    <div class="buttons button-box">
+       <a id="twitter-share-button" href=#>
        <button id="twitter-button" >Tweet Quote</button></a>
        <button id="quote-button" onclick="changeQuote();">Motivate Me!</button>
-    
-   </div>
   </div>
 </body>
 <script language="JavaScript" src="script.js"text/javascript"></script>
