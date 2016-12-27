@@ -39,7 +39,6 @@ var quotesArr =     [["What one man can do, another can do","Unknown"],
 var randomNum = Math.floor((Math.random() * quotesArr.length));
 
 //Set quote and author based on random number
-console.log(randomNum);
 var showQuote = quotesArr[randomNum][0];
 var showAuthor = quotesArr[randomNum][1];
 
