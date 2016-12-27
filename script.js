@@ -33,7 +33,9 @@ var quotesArr =     [["What one man can do, another can do.","Unknown"],
                      ["The journey of a thousand miles begins with one step.","Lao Tzu"],
                      ["The ones who are crazy enough to think they can change the world are the ones that do.","Anonymous"],
                      ["Don&#39;t be afraid to give up the good to go for the great.","John D. Rockefeller"],
-                     ["No masterpiece was ever created by a lazy artist.","Anonymous"]];
+                     ["No masterpiece was ever created by a lazy artist.","Anonymous"],
+                     ["No one really knows why they are alive until they know what they&#39;d die for.","Martin Luther King Jr."]];
+
 
 //Get a random number between 0 and the array length
 var randomNum = Math.floor((Math.random() * quotesArr.length));
