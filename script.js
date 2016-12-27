@@ -31,7 +31,7 @@ var quotesArr =     [["What one man can do, another can do","Unknown"],
                      ["Men are born to succeed, not fail.","Henry David Thoreau"],
                      ["Success is walking from failure to failure with no loss of enthusiasm.","Winston Churchill"],
                      ["The journey of a thousand miles begins with one step.","Lao Tzu"],
-                     ["The ones who are crazy enough to think they can change the world, are the ones that do.","Anonymous"],
+                     ["The ones who are crazy enough to think they can change the world are the ones that do.","Anonymous"],
                      ["Don&#39;t be afraid to give up the good to go for the great.","John D. Rockefeller"],
                      ["No masterpiece was ever created by a lazy artist.","Anonymous"]];
 
