@@ -3,8 +3,8 @@ document.body.addEventListener('load', changeQuote());
 function changeQuote(){
 
 //Array of quotes
-var quotesArr =     [["What one man can do, another can do","Unknown"],
-                     ["If you can take it, you can make it", "Unknown"],
+var quotesArr =     [["What one man can do, another can do.","Unknown"],
+                     ["If you can take it, you can make it.", "Unknown"],
                      ["If you can dream it, you can do it.","Walt Disney"],
                      ["Whatever you are, be a good one.","Abraham Lincoln"],
                      ["Never, never, never give up.","Winston Churchill"],
